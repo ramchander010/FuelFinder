@@ -50,6 +50,7 @@ Real-time user location tracking
 Permission handling
 Nearby search functionality
 🚀 Getting Started
+
 1️⃣ Clone the repository
 git clone https://github.com/ramchander010/FuelFinder.git
 
