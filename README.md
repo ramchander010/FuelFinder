@@ -101,10 +101,10 @@ Add screenshots here (Map view, station list, search UI)
 ## 📸 Screenshots
 
 ### 🗺️ Map View
-![Map View](Screenshots/preview.PNG)
+![Map View](FuelFinder/Screenshots/preview.PNG)
 
 ### 📍 Station List
-![Station List](Screenshots/preview1.PNG)
+![Station List](FuelFinder/Screenshots/preview1.PNG)
 
 🔮 Future Improvements
 ⛽ Filter by fuel type (Petrol/Diesel/CNG)
