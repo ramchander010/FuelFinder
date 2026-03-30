@@ -4,12 +4,20 @@ FuelFinder is an iOS application that helps users find nearby fuel stations, vie
 
 
 📱 Features
+
 📍 Get user’s current location
+
 🗺️ Display nearby fuel stations on map
+
 🔍 Search for locations
+
 📄 View station list in bottom sheet
+
 ⚡ Smooth and responsive UI
+
 🧠 MVVM architecture for clean code
+
+
 🏗️ Architecture
 
 
@@ -25,31 +33,51 @@ FuelFinder
 🔹 Layers Explanation
 
 Models
+
 Data structures for fuel stations and API responses
+
 Services
 APIService → Handles network calls
+
 FuelRepository → Manages data logic
+
 ViewModels
+
 Business logic and state management
+
 Example:
+
 MainViewModel
+
 LocationSearchViewModel
+
 LocationManager
+
 Views
+
 UI layer using SwiftUI
+
 Example:
 FuelMapView
 ContentView
 StationListSheet
+
 🛠️ Tech Stack
+
 Swift
+
 SwiftUI
+
 MapKit
+
 CoreLocation
+
 MVVM Architecture
+
 Combine (if used)
 
 📍 Location Features
+
 Real-time user location tracking
 Permission handling
 Nearby search functionality
@@ -73,7 +101,9 @@ Add this in Info.plist:
 
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>We need your location to show nearby fuel stations</string>
+
 📂 Project Structure
+
 FuelFinder/
 │
 ├── Models/
@@ -94,11 +124,8 @@ FuelFinder/
 ├── Extensions/
 ├── Assets/
 └── FuelFinderApp.swift
+
 📸 Screenshots
-
-Add screenshots here (Map view, station list, search UI)
-
-## 📸 Screenshots
 
 ### 🗺️ Map View
 ![Map View](FuelFinder/Screenshots/preview.PNG)
@@ -106,12 +133,20 @@ Add screenshots here (Map view, station list, search UI)
 ### 📍 Station List
 ![Station List](FuelFinder/Screenshots/preview1.PNG)
 
+
 🔮 Future Improvements
+
 ⛽ Filter by fuel type (Petrol/Diesel/CNG)
+
 ⭐ Favorite stations
+
 📊 Price comparison
+
 🌐 Backend integration for real-time data
+
 🔔 Notifications for nearby stations
+
 🤝 Contributing
+
 
 Contributions are welcome!
