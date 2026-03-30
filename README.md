@@ -98,6 +98,14 @@ FuelFinder/
 
 Add screenshots here (Map view, station list, search UI)
 
+## 📸 Screenshots
+
+### 🗺️ Map View
+![Map View](Screenshots/preview.PNG)
+
+### 📍 Station List
+![Station List](Screenshots/preview1.PNG)
+
 🔮 Future Improvements
 ⛽ Filter by fuel type (Petrol/Diesel/CNG)
 ⭐ Favorite stations
