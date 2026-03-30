@@ -52,6 +52,7 @@ Nearby search functionality
 🚀 Getting Started
 1️⃣ Clone the repository
 git clone https://github.com/ramchander010/FuelFinder.git
+
 2️⃣ Open in Xcode
 cd FuelFinder
 open FuelFinder.xcodeproj
